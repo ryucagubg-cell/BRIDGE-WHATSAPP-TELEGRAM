@@ -1,0 +1,8 @@
+{
+  "name": "Telegram ↔ WhatsApp Bridge",
+  "description": "A bridge bot connecting Telegram completely with WhatsApp, written using Telegraf, Baileys, and Next.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
